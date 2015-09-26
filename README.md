@@ -16,6 +16,12 @@ Or install it yourself as:
 
     $ gem install barefoot-toolbox
 
+## Usage
+
+Configure your project using the Barefoot Toolbox
+
+    $ bundle exec bftoolbox
+
 ## Contributing
 
 1. Fork it ( http://github.com/BarefootProximity/barefoot-toolbox/fork )
