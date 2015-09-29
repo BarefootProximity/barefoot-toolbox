@@ -6,15 +6,11 @@ Basic Ruby development tools used by Barefoot Proximity's AppDev team
 
 Add this line to your application's Gemfile:
 
-    gem 'barefoot-toolbox'
+    gem 'barefoot-toolbox', :github => 'BarefootProximity/barefoot-toolbox'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install barefoot-toolbox
 
 ## Usage
 
